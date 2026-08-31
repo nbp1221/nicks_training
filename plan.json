@@ -1,0 +1,116 @@
+{
+  "2026-09-01": {
+    "sport": "lauf",
+    "title": "25 min locker",
+    "cap": 150,
+    "message": "Lauf 25 min locker. HF-Deckel 150.",
+    "notes": [
+      "Flach bleiben, kein H\u00fcgel.",
+      "HF-Alarm am Garmin auf 150. Wenn er piept: gehen, bis du unter 145 bist.",
+      "Erwarte 6:30\u20137:00/km. F\u00fchlt sich zu langsam an, ist trotzdem richtig."
+    ]
+  },
+  "2026-09-02": {
+    "sport": "rennrad",
+    "title": "75 min locker",
+    "cap": 140,
+    "message": "Rad 75 min locker. HF unter 140.",
+    "notes": [
+      "HF unter 140 halten.",
+      "Trittfrequenz 90 oder h\u00f6her.",
+      "Keine Segmente. Kein Sprint am Kanal."
+    ]
+  },
+  "2026-09-03": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag. Kein Sport.",
+    "notes": ["Kein Sport."]
+  },
+  "2026-09-04": {
+    "sport": "rennrad",
+    "title": "FTP-Test",
+    "cap": null,
+    "message": "FTP-Test H\u00f6henstra\u00dfe. Vorher 60 g Kohlenhydrate.",
+    "notes": [
+      "10 min locker einrollen.",
+      "20 min am St\u00fcck gleichm\u00e4\u00dfig, Ziel etwa 235 W. Nicht vorne raushauen.",
+      "10 min ausrollen.",
+      "FTP = 95 % deiner 20-Minuten-Leistung.",
+      "Vorher essen: 60 g Kohlenhydrate."
+    ]
+  },
+  "2026-09-05": {
+    "sport": "reise",
+    "title": "Flug nach Hossegor",
+    "cap": null,
+    "message": "Reisetag. Kein Sport.",
+    "notes": ["Kein Sport."]
+  },
+  "2026-09-06": {
+    "sport": "lauf",
+    "title": "30 min Waldweg",
+    "cap": 150,
+    "message": "Lauf 30 min Waldweg. HF-Deckel 150.",
+    "notes": [
+      "Weicher Untergrund, das ist der Grund f\u00fcr den Wald.",
+      "Kein tiefer Sand, das ist ein Wadenkiller.",
+      "Kein nasser Strandstreifen, der ist immer schr\u00e4g."
+    ]
+  },
+  "2026-09-07": {
+    "sport": "schwimmen",
+    "title": "20\u201330 min locker",
+    "cap": null,
+    "message": "Schwimmen 20\u201330 min locker, oder frei.",
+    "notes": [
+      "Locker, reine Regeneration. Oder frei.",
+      "Surfen z\u00e4hlt als Einheit \u2014 dann sag Bescheid."
+    ]
+  },
+  "2026-09-08": {
+    "sport": "lauf",
+    "title": "35 min Waldweg",
+    "cap": 150,
+    "message": "Lauf 35 min Waldweg. HF-Deckel 150.",
+    "notes": [
+      "Vorher pr\u00fcfen: Waden und Achilles nach Sonntag frei?",
+      "Wenn nicht: k\u00fcrzen oder schwimmen."
+    ]
+  },
+  "2026-09-09": {
+    "sport": "kraft",
+    "title": "30 min Ganzk\u00f6rper",
+    "cap": null,
+    "message": "Kraft 30 min Ganzk\u00f6rper, ohne Ger\u00e4te.",
+    "notes": [
+      "Kniebeugen, Ausfallschritte, Liegest\u00fctz, Planks, Rudern mit Band.",
+      "F\u00e4llt weg, wenn du surfen warst."
+    ]
+  },
+  "2026-09-10": {
+    "sport": "lauf",
+    "title": "40 min Waldweg",
+    "cap": 150,
+    "message": "Lauf 40 min Waldweg. HF-Deckel 150.",
+    "notes": ["Gleicher Deckel. Tempo egal."]
+  },
+  "2026-09-11": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag. Frei oder K\u00fcstenspaziergang.",
+    "notes": ["Frei oder langer lockerer K\u00fcstenspaziergang."]
+  },
+  "2026-09-12": {
+    "sport": "lauf",
+    "title": "45 min flach",
+    "cap": 150,
+    "message": "Lauf 45 min flach. HF-Deckel 150.",
+    "notes": [
+      "L\u00e4ngster Lauf der Woche.",
+      "Schwere Beine? Dann 30 min oder stattdessen schwimmen."
+    ]
+  }
+}
