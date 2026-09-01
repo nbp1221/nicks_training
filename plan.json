@@ -1,0 +1,311 @@
+{
+  "2026-09-01": {
+    "sport": "lauf",
+    "title": "25 min locker",
+    "cap": 150,
+    "message": "Lauf 25 min locker. HF-Deckel 150.",
+    "notes": [
+      "Flach bleiben, kein Hügel.",
+      "HF-Alarm am Garmin auf 150. Wenn er piept: gehen, bis du unter 145 bist.",
+      "Erwarte 6:30–7:00/km. Fühlt sich zu langsam an, ist trotzdem richtig."
+    ]
+  },
+  "2026-09-02": {
+    "sport": "rennrad",
+    "title": "75 min locker",
+    "cap": 140,
+    "message": "Rad 75 min locker. HF unter 140.",
+    "notes": [
+      "HF unter 140 halten.",
+      "Trittfrequenz 90 oder höher.",
+      "Keine Segmente. Kein Sprint am Kanal."
+    ]
+  },
+  "2026-09-03": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag. Kein Sport.",
+    "notes": [
+      "Kein Sport."
+    ]
+  },
+  "2026-09-04": {
+    "sport": "rennrad",
+    "title": "FTP-Test",
+    "cap": null,
+    "message": "FTP-Test Höhenstraße. Vorher 60 g Kohlenhydrate.",
+    "notes": [
+      "10 min locker einrollen.",
+      "20 min am Stück gleichmäßig, Ziel etwa 235 W. Nicht vorne raushauen.",
+      "10 min ausrollen.",
+      "FTP = 95 % deiner 20-Minuten-Leistung.",
+      "Vorher essen: 60 g Kohlenhydrate."
+    ]
+  },
+  "2026-09-05": {
+    "sport": "frei",
+    "title": "Flug nach Hossegor",
+    "cap": null,
+    "message": "Ruhetag. Reise, kein Sport.",
+    "notes": [
+      "Kein Sport."
+    ]
+  },
+  "2026-09-06": {
+    "sport": "lauf",
+    "title": "30 min Waldweg",
+    "cap": 150,
+    "message": "Lauf 30 min Waldweg. HF-Deckel 150.",
+    "notes": [
+      "Weicher Untergrund, das ist der Grund für den Wald.",
+      "Kein tiefer Sand, das ist ein Wadenkiller.",
+      "Kein nasser Strandstreifen, der ist immer schräg."
+    ]
+  },
+  "2026-09-07": {
+    "sport": "schwimmen",
+    "title": "20–30 min locker",
+    "cap": null,
+    "message": "Schwimmen 20–30 min locker, oder frei.",
+    "notes": [
+      "Locker, reine Regeneration. Oder frei.",
+      "Surfen zählt als Einheit — dann sag Bescheid."
+    ]
+  },
+  "2026-09-08": {
+    "sport": "lauf",
+    "title": "35 min Waldweg",
+    "cap": 150,
+    "message": "Lauf 35 min Waldweg. HF-Deckel 150.",
+    "notes": [
+      "Vorher prüfen: Waden und Achilles nach Sonntag frei?",
+      "Wenn nicht: kürzen oder schwimmen."
+    ]
+  },
+  "2026-09-09": {
+    "sport": "kraft",
+    "title": "30 min Ganzkörper",
+    "cap": null,
+    "message": "Kraft 30 min Ganzkörper, ohne Geräte.",
+    "notes": [
+      "Kniebeugen, Ausfallschritte, Liegestütz, Planks, Rudern mit Band.",
+      "Fällt weg, wenn du surfen warst."
+    ]
+  },
+  "2026-09-10": {
+    "sport": "lauf",
+    "title": "40 min Waldweg",
+    "cap": 150,
+    "message": "Lauf 40 min Waldweg. HF-Deckel 150.",
+    "notes": [
+      "Gleicher Deckel. Tempo egal."
+    ]
+  },
+  "2026-09-11": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag. Frei oder Küstenspaziergang.",
+    "notes": [
+      "Frei oder langer lockerer Küstenspaziergang."
+    ]
+  },
+  "2026-09-12": {
+    "sport": "lauf",
+    "title": "45 min flach",
+    "cap": 150,
+    "message": "Lauf 45 min flach. HF-Deckel 150.",
+    "notes": [
+      "Längster Lauf der Woche.",
+      "Schwere Beine? Dann 30 min oder stattdessen schwimmen."
+    ]
+  },
+  "2026-09-13": {
+    "sport": "frei",
+    "title": "Rückreise",
+    "cap": null,
+    "message": "Ruhetag. Rückreise, kein Sport.",
+    "notes": [
+      "Reisetag. Kein Training."
+    ]
+  },
+  "2026-09-14": {
+    "sport": "rennrad",
+    "title": "60 min locker",
+    "cap": 140,
+    "message": "Rad 60 min locker. HF unter 140.",
+    "notes": [
+      "Erste Fahrt nach neun Tagen ohne Rad. Bewusst kurz.",
+      "HF unter 140, Trittfrequenz 90+.",
+      "Donauinsel oder Lobau. Keine Segmente."
+    ]
+  },
+  "2026-09-15": {
+    "sport": "lauf",
+    "title": "40 min locker",
+    "cap": 150,
+    "message": "Lauf 40 min locker. HF-Deckel 150.",
+    "notes": [
+      "Zurück auf Asphalt nach einer Woche Waldboden — das ist ein Untergrundwechsel, den Waden und Achilles merken.",
+      "Prater Hauptallee, flach.",
+      "HF-Alarm 150. Bei Piepen gehen."
+    ]
+  },
+  "2026-09-16": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag.",
+    "notes": [
+      "Kein Sport. Das Wochenende in Bruckdorf wird lang."
+    ]
+  },
+  "2026-09-17": {
+    "sport": "rennrad",
+    "title": "60 min mit 3 Antritten",
+    "cap": null,
+    "message": "Rad 60 min locker mit 3 kurzen Antritten.",
+    "notes": [
+      "Locker fahren, dazwischen 3 mal 30 Sekunden zügig, dazwischen voll ausrollen.",
+      "Das öffnet die Beine für Freitag, ohne müde zu machen.",
+      "Nicht mehr als drei. Kein Segmentjagen."
+    ]
+  },
+  "2026-09-18": {
+    "sport": "rennrad",
+    "title": "Kurze Runde Lungau",
+    "cap": null,
+    "message": "Rennrad kurz im Lungau. Beine für Samstag sparen.",
+    "notes": [
+      "60 bis 75 Minuten, flach bis wellig. Einrollen nach der Anreise.",
+      "HF unter 145. Morgen ist der harte Tag — heute wird nichts bewiesen.",
+      "Kein Anstieg Lintsching, kein Knia-Segment."
+    ]
+  },
+  "2026-09-19": {
+    "sport": "mtb",
+    "title": "1000 hm Bergrunde",
+    "cap": null,
+    "message": "MTB 1000 hm. Ab der ersten halben Stunde essen.",
+    "notes": [
+      "Der Hauptreiz der Woche. Rechne mit 3 bis 4 Stunden.",
+      "Anstieg gleichmäßig, erste 20 Minuten bewusst 15 W unter dem, was sich richtig anfühlt. Am Tauern bist du vorne rausgefahren und hinten von 225 auf 199 W eingebrochen.",
+      "Trittfrequenz über 75 halten. Wenn dir dafür die Gänge fehlen, lieber schieben als würgen.",
+      "Verpflegung: 60 g Kohlenhydrate pro Stunde ab der ersten halben Stunde, 500 bis 750 ml Flüssigkeit. Eine Krainer oben ist Belohnung, keine Verpflegung.",
+      "Windjacke für die Abfahrt."
+    ]
+  },
+  "2026-09-20": {
+    "sport": "wandern",
+    "title": "Wanderung 3-4 h",
+    "cap": 140,
+    "message": "Wandern 3-4 h locker. HF unter 140.",
+    "notes": [
+      "Nach 1000 Höhenmetern am Vortag ist das kein zweiter harter Tag.",
+      "600 bis 800 hm reichen. HF unter 140 — wenn du schnaufst, gehst du zu schnell.",
+      "Der Abstieg ist die eigentliche Belastung. Stöcke nehmen, wenn du welche hast.",
+      "Rucksackverpflegung nicht vergessen, drei Stunden sind drei Stunden."
+    ]
+  },
+  "2026-09-21": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag nach dem Wochenende.",
+    "notes": [
+      "Kein Sport. Rückreise."
+    ]
+  },
+  "2026-09-22": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Zweiter Ruhetag.",
+    "notes": [
+      "Auch heute nichts. Zwei harte Bergtage brauchen zwei Tage.",
+      "Wenn die Beine sich gut anfühlen: trotzdem frei. Das ist der Punkt."
+    ]
+  },
+  "2026-09-23": {
+    "sport": "rennrad",
+    "title": "75 min locker",
+    "cap": 140,
+    "message": "Rad 75 min locker. HF unter 140.",
+    "notes": [
+      "Locker wieder reinkommen. HF unter 140.",
+      "Trittfrequenz 90+."
+    ]
+  },
+  "2026-09-24": {
+    "sport": "lauf",
+    "title": "40 min locker",
+    "cap": 150,
+    "message": "Lauf 40 min locker. HF-Deckel 150.",
+    "notes": [
+      "Prater oder Donauinsel, flach.",
+      "HF-Alarm 150."
+    ]
+  },
+  "2026-09-25": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag.",
+    "notes": [
+      "Kein Sport."
+    ]
+  },
+  "2026-09-26": {
+    "sport": "rennrad",
+    "title": "90 min mit 2x10 min",
+    "cap": null,
+    "message": "Rad 90 min mit 2 mal 10 min Tempo.",
+    "notes": [
+      "20 min locker einrollen.",
+      "2 mal 10 Minuten an der Schwelle, dazwischen 8 Minuten locker. Höhenstraße eignet sich.",
+      "Richtwert kommt aus dem FTP-Test vom 4. September — nimm 95 bis 100 % davon.",
+      "Ausrollen. Unterwegs essen, auch auf 90 Minuten."
+    ]
+  },
+  "2026-09-27": {
+    "sport": "lauf",
+    "title": "45 min locker",
+    "cap": 150,
+    "message": "Lauf 45 min locker. HF-Deckel 150.",
+    "notes": [
+      "Längster Lauf seit Hossegor.",
+      "Deckel bleibt 150. Wenn die Waden vom Vortag müde sind: 35 min."
+    ]
+  },
+  "2026-09-28": {
+    "sport": "frei",
+    "title": "Ruhetag",
+    "cap": null,
+    "message": "Ruhetag.",
+    "notes": [
+      "Kein Sport."
+    ]
+  },
+  "2026-09-29": {
+    "sport": "rennrad",
+    "title": "2 h locker",
+    "cap": 145,
+    "message": "Rad 2 h locker. HF unter 145.",
+    "notes": [
+      "Lange lockere Ausfahrt, Lobau oder donauabwärts.",
+      "HF unter 145 durchgehend.",
+      "60 g Kohlenhydrate pro Stunde — auf zwei Stunden ist das kein Vorschlag."
+    ]
+  },
+  "2026-09-30": {
+    "sport": "lauf",
+    "title": "40 min locker",
+    "cap": 150,
+    "message": "Lauf 40 min locker. HF-Deckel 150.",
+    "notes": [
+      "Monatsabschluss, flach und ruhig.",
+      "HF-Alarm 150."
+    ]
+  }
+}
